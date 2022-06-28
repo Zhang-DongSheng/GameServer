@@ -1,22 +1,24 @@
 ﻿using System.Text;
 
-namespace Network
+namespace Game.Network
 {
     public static class Convert
     {
+        static readonly Encoding encoding = new UTF8Encoding(false);
+
         public static string ToString(byte[] buffer)
         {
-            return Encoding.UTF32.GetString(buffer);
+            return encoding.GetString(buffer);
         }
 
         public static string ToString(byte[] buffer, int index, int count)
         {
-            return Encoding.UTF32.GetString(buffer, index, count);
+            return encoding.GetString(buffer, index, count);
         }
 
         public static byte[] ToBytes(string value)
         {
-            return Encoding.UTF32.GetBytes(value);
+            return encoding.GetBytes(value);
         }
     }
 }
