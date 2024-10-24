@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
+using Convert = Game.Network.Convert;
 
-namespace Network
+namespace Game.Network
 {
     class Server
     {

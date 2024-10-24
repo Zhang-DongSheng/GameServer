@@ -1,16 +1,13 @@
-﻿using Network;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
-namespace Game
+namespace Game.Network
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("服务器启动...");
+
             string input = string.Empty;
 
             Server server = new Server("127.0.0.1", 88);
@@ -19,18 +16,31 @@ namespace Game
             {
                 input = Console.ReadLine();
 
-                if (input == "Close")
+                if (string.IsNullOrEmpty(input))
+                    continue;
+
+                switch (input.ToLower())
                 {
-                    server.Close();
-                }
-                else
-                {
-                    server.Send(input);
+                    case Command.HELP:
+                        {
+                            for (int i = 0; i < Command.information.Count; i++)
+                            {
+                                Console.WriteLine(Command.information[i]);
+                            }
+                        }
+                        break;
+                    case Command.CLOSE:
+                        {
+                            server.Close();
+                        }
+                        break;
+                    default:
+                        server.Send(input);
+                        break;
                 }
             }
-
-
             Console.WriteLine("按任意键退出...");
+
             Console.ReadKey();
         }
     }

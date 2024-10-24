@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\GameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB5EA9-CA14-41B1-9F26-B157249D1083}|GameServer.csproj|d:\\project\\gameserver\\scripts\\network\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB5EA9-CA14-41B1-9F26-B157249D1083}|GameServer.csproj|solutionrelative:scripts\\network\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB5EA9-CA14-41B1-9F26-B157249D1083}|GameServer.csproj|d:\\project\\gameserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB5EA9-CA14-41B1-9F26-B157249D1083}|GameServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB5EA9-CA14-41B1-9F26-B157249D1083}|GameServer.csproj|d:\\project\\gameserver\\scripts\\network\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB5EA9-CA14-41B1-9F26-B157249D1083}|GameServer.csproj|solutionrelative:scripts\\network\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB5EA9-CA14-41B1-9F26-B157249D1083}|GameServer.csproj|d:\\project\\gameserver\\scripts\\network\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB5EA9-CA14-41B1-9F26-B157249D1083}|GameServer.csproj|solutionrelative:scripts\\network\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\Project\\GameServer\\Scripts\\NetWork\\Server.cs",
+              "RelativeDocumentMoniker": "Scripts\\NetWork\\Server.cs",
+              "ToolTip": "D:\\Project\\GameServer\\Scripts\\NetWork\\Server.cs",
+              "RelativeToolTip": "Scripts\\NetWork\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:31:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\Project\\GameServer\\Scripts\\NetWork\\Command.cs",
+              "RelativeDocumentMoniker": "Scripts\\NetWork\\Command.cs",
+              "ToolTip": "D:\\Project\\GameServer\\Scripts\\NetWork\\Command.cs",
+              "RelativeToolTip": "Scripts\\NetWork\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:27:58.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Convert.cs",
+              "DocumentMoniker": "D:\\Project\\GameServer\\Scripts\\NetWork\\Convert.cs",
+              "RelativeDocumentMoniker": "Scripts\\NetWork\\Convert.cs",
+              "ToolTip": "D:\\Project\\GameServer\\Scripts\\NetWork\\Convert.cs",
+              "RelativeToolTip": "Scripts\\NetWork\\Convert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:27:47.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\GameServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\GameServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:18:30.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

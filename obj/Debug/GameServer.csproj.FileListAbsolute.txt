@@ -5,3 +5,10 @@ E:\Study\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
 E:\Study\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
 E:\Study\GameServer\obj\Debug\GameServer.exe
 E:\Study\GameServer\obj\Debug\GameServer.pdb
+D:\Project\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+D:\Project\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\Project\GameServer\obj\Debug\GameServer.exe
+D:\Project\GameServer\obj\Debug\GameServer.pdb
+D:\Project\GameServer\bin\Debug\GameServer.exe.config
+D:\Project\GameServer\bin\Debug\GameServer.exe
+D:\Project\GameServer\bin\Debug\GameServer.pdb
